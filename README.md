@@ -22,5 +22,5 @@ SWITCH заменит вам виртуальные машины или неск
 🔥 Есть бесплатная версия на 5 профилей.
 
 ## Скачать:
- - [Switch Free]([https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/releases/latest](https://mybot.su/switch_free))
- - [Switch Pro]([https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/releases/latest](https://mybot.su/switch_pro))
+ - [Switch Free - 5 профилей бесплатно](https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/releases/latest](https://mybot.su/switch_free)
+ - [Switch Pro - неограниченное количество профилей за 390 руб.](https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/releases/latest](https://mybot.su/switch_pro)
